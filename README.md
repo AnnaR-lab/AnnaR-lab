@@ -17,6 +17,6 @@ Here you will find projects I have completed in Data Analytics, showcasing my sk
 ### Portfolio
 #### SQL Projects
 
-| Project Name           | Project Task                       | Objective |
-|------------------------|----------------------------|-----------|
-| [Real_estate_research](Real_estate_research)   | to identify promising real estate segments and high-demand seasons in Saint Petersburg and the Leningrad Region to support the agency’s expansion into a new geographic marke | Beginner |
+| Project Name           | Project Task                       | Skills | Level |
+|------------------------|----------------------------|-----------|-----------|
+| [Real_estate_research](Real_estate_research)   | to identify promising real estate segments and high-demand seasons in Saint Petersburg and the Leningrad Region to support the agency’s expansion into a new geographic marke | Ad hoc queries, Window functions, Filtration, CTE, Visualization | Beginner |
