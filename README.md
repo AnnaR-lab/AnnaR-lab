@@ -1,6 +1,7 @@
 # Greeting
 ### Data Analytics 
-Hello, my name is Anna. Welcome to my Portfolio page
+Hello, my name is Anna. Welcome to my portfolio! 
+Here you will find projects I have completed in Data Analytics, showcasing my skills in SQL, Python, R, Tableau, and data visualization.
 
 
 ### Tech Stack
@@ -14,3 +15,8 @@ Hello, my name is Anna. Welcome to my Portfolio page
 
 
 ### Portfolio
+#### SQL Projects
+
+| Project Name           | Task                       | Objective |
+|------------------------|----------------------------|-----------|
+| [Real_estate_research](Real_estate_research)   | Data Exploration and Cleaning | Beginner |
